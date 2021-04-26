@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0VyJf31CQD4Rsep6npZa9/Vdn5BWDo/v3gNItNTsj8ivMtuRuVR6NtWkl1uZ6Imz+7m+PC/IxRUS2cmQjzy0Rg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\doudo\\Desktop\\APIGatewayEnvoy\\APIGatewayDemo\\CoffeeAPI\\CoffeeAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\doudo\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512"
+  ],
+  "logs": []
+}

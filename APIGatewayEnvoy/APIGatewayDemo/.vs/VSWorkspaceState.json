@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\CoffeeAPI",
+    "\\CoffeeAPI\\Controllers",
+    "\\TeaAPI",
+    "\\TeaAPI\\Controllers"
+  ],
+  "SelectedNode": "\\CoffeeAPI\\Controllers\\CoffeeController.cs",
+  "PreviewInSolutionExplorer": false
+}

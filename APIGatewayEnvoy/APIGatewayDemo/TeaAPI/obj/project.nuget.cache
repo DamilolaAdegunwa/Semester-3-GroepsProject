@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Z1wVU3tk5reUpcAVdZqrX/GQBTrMrglMp7n7kewA4Xv/AoYEusaf4tme0EmPago1lqxc84IaqiI3oQBgtuFAtw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\doudo\\Desktop\\APIGatewayEnvoy\\APIGatewayDemo\\TeaAPI\\TeaAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\doudo\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512"
+  ],
+  "logs": []
+}
