@@ -1,2 +1,2 @@
-# Semester-3---GroepsProject
+# Semester-3-GroepsProject
 Individuele leeruitkomsten voor GroepsProject
